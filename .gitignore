@@ -1,0 +1,9 @@
+SimpleHelpDeskAPI.sln
+appsettings.json
+appsettings.*.json
+Uploads/
+Properties/
+obj/
+Migrations/
+bin/
+.config/
